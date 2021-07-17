@@ -26,3 +26,8 @@ html {
     right: 10px;
     bottom: 10px;
 }
+footer {
+	width: 600px;
+	margin: 0 auto;
+	text-align: right;
+}
